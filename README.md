@@ -91,7 +91,7 @@ Since I am trying to identify good candidates for loans I am going to assume tha
 ***Table 6: Analysis using EasyEnsembleClassifier***
 
 
-##Summary
+## Summary
 
 For this analysis the recall metric is more important than the precsion metric. Compared to the ensemble classifiers to predict credit risk, the resampling models don't produce a perfect model fit. According to all the models the results of the EasyEnsembleClassifier reflect a high accuracy and a high recall value. I would recommend using this model.
 
